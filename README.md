@@ -1,6 +1,6 @@
 # 📊 Screen Time Analysis & Prediction Dashboard
 
-Access the visualization here:
+Access the visualization here: https://datascreentime-314151617.streamlit.app
 
 
 This project presents an interactive web dashboard built with Streamlit to analyze and visualize children's screen time habits based on aggregated survey data. It explores trends across age, gender, and day type (weekday/weekend) and includes a simple predictive component to forecast average total screen time trends.
